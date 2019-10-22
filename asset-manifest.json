@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crud_hooks_material/static/css/main.b3fedab9.chunk.css",
+    "main.js": "/crud_hooks_material/static/js/main.70fb18f4.chunk.js",
+    "main.js.map": "/crud_hooks_material/static/js/main.70fb18f4.chunk.js.map",
+    "runtime-main.js": "/crud_hooks_material/static/js/runtime-main.ac0a8772.js",
+    "runtime-main.js.map": "/crud_hooks_material/static/js/runtime-main.ac0a8772.js.map",
+    "static/js/2.45bd6e50.chunk.js": "/crud_hooks_material/static/js/2.45bd6e50.chunk.js",
+    "static/js/2.45bd6e50.chunk.js.map": "/crud_hooks_material/static/js/2.45bd6e50.chunk.js.map",
+    "index.html": "/crud_hooks_material/index.html",
+    "precache-manifest.5eee384c56fd924c954941066d04d3c5.js": "/crud_hooks_material/precache-manifest.5eee384c56fd924c954941066d04d3c5.js",
+    "service-worker.js": "/crud_hooks_material/service-worker.js",
+    "static/css/main.b3fedab9.chunk.css.map": "/crud_hooks_material/static/css/main.b3fedab9.chunk.css.map",
+    "static/media/logo.svg": "/crud_hooks_material/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac0a8772.js",
+    "static/js/2.45bd6e50.chunk.js",
+    "static/css/main.b3fedab9.chunk.css",
+    "static/js/main.70fb18f4.chunk.js"
+  ]
+}
